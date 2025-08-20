@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|c:\\elmer\\developer\\econtact\\web2025\\webecontact\\webecontact\\wwwroot\\js\\econtact\\econtact.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|solutionrelative:webecontact\\wwwroot\\js\\econtact\\econtact.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|c:\\elmer\\developer\\econtact\\web2025\\webecontact\\webecontact\\views\\contactlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|solutionrelative:webecontact\\views\\contactlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|c:\\elmer\\developer\\econtact\\web2025\\webecontact\\webecontact\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|solutionrelative:webecontact\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|c:\\elmer\\developer\\econtact\\web2025\\webecontact\\webecontact\\servicio\\repositorio\\rcontactlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|solutionrelative:webecontact\\servicio\\repositorio\\rcontactlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|c:\\elmer\\developer\\econtact\\web2025\\webecontact\\webecontact\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|solutionrelative:webecontact\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|c:\\elmer\\developer\\econtact\\web2025\\webecontact\\webecontact\\controllers\\contactlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D60E336-638F-476E-BE83-EE8FE82F2F01}|webEcontact\\webEcontact.csproj|solutionrelative:webecontact\\controllers\\contactlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "webEcontact\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "webEcontact\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T21:18:03.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "webEcontact\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "webEcontact\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T20:34:00.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "econtact.js",
+              "DocumentMoniker": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\wwwroot\\js\\econtact\\econtact.js",
+              "RelativeDocumentMoniker": "webEcontact\\wwwroot\\js\\econtact\\econtact.js",
+              "ToolTip": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\wwwroot\\js\\econtact\\econtact.js",
+              "RelativeToolTip": "webEcontact\\wwwroot\\js\\econtact\\econtact.js",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-20T20:33:11.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RContactLIst.cs",
+              "DocumentMoniker": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Servicio\\Repositorio\\RContactLIst.cs",
+              "RelativeDocumentMoniker": "webEcontact\\Servicio\\Repositorio\\RContactLIst.cs",
+              "ToolTip": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Servicio\\Repositorio\\RContactLIst.cs",
+              "RelativeToolTip": "webEcontact\\Servicio\\Repositorio\\RContactLIst.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:34:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Views\\ContactList\\Index.cshtml",
+              "RelativeDocumentMoniker": "webEcontact\\Views\\ContactList\\Index.cshtml",
+              "ToolTip": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Views\\ContactList\\Index.cshtml",
+              "RelativeToolTip": "webEcontact\\Views\\ContactList\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:20:28.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactListController.cs",
+              "DocumentMoniker": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Controllers\\ContactListController.cs",
+              "RelativeDocumentMoniker": "webEcontact\\Controllers\\ContactListController.cs",
+              "ToolTip": "C:\\Elmer\\Developer\\Econtact\\web2025\\webEcontact\\webEcontact\\Controllers\\ContactListController.cs",
+              "RelativeToolTip": "webEcontact\\Controllers\\ContactListController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:20:08.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

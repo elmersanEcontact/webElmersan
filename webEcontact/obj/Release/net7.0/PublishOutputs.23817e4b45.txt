@@ -1,0 +1,15 @@
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\webEcontact.exe
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\libman.json
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\webEcontact.dll
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\webEcontact.deps.json
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\webEcontact.runtimeconfig.json
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\webEcontact.pdb
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\INIFileParser.dll
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\PureCloudPlatform.Client.V2.dll
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\RestSharp.dll
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\System.Text.Encodings.Web.dll
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\System.Text.Json.dll
+C:\Elmer\Developer\Econtact\web2025\webEcontact\webEcontact\obj\Release\net7.0\PubTmp\Out\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll

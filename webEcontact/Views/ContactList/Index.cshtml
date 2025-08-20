@@ -1,0 +1,51 @@
+﻿@model IEnumerable<webEcontact.Models.EC_Contactlist>
+
+@{
+    ViewData["Title"] = "ContactList";
+}
+
+<div class="container-fluid p-0">
+    <div class="card">
+        <div class="card-header">
+            <h5 class="card-title mb-0">Listas de Contactos</h5>
+        </div>
+        <div class="card-body">
+            <table class="table dataTable table-striped table-bordered table-hover table-responsive nowrap" style="width:100%" id="ListTable">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Division</th>
+                    <th>Nombre</th>
+                    <th>Fecha de Creación</th>
+                    <th>N° Contactos</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var indice = 1;
+                    foreach (var entities in Model)
+                    {
+                        <tr>
+                            <td>@indice</td>
+                            <td>@entities.divisionName</td>
+                            <td>@entities.name</td>
+                            <td>@entities.fechaCreacion</td>
+                            <td>@entities.size</td>
+                        </tr>
+                        indice++;
+                    }
+                }
+            </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts
+{
+    <script>
+        var idDataTable = 'ListTable';
+        DataTableBasico(idDataTable);
+    </script>
+}
